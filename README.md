@@ -1,5 +1,5 @@
 <h1>oi</h1>
-- 🔭 estou trabalhando em:
+- 🔭 estou trabalhando em:<p>
 nada kkkkkkk alguém me da um emprego
 - 🌱 estou estudando:
 sql
