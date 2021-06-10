@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>oi</h1>
+- 🔭 estou trabalhando em:
+nada kkkkkkk alguém me da um emprego
+- 🌱 estou estudando:
+sql
+- 🤔estou precisando de ajuda em:
+sql tb
+- 💬 me pergunte sobre: 
+grêmio.
+- 📫 como falar comigo:
+não fale comigo
+zoakkkkkkk, meu IG é @nilokao e meu TT é @nilokkkkao
+- ⚡ fato(s) gamer(s):
+nilokao é um nick mt feio mas é meu
+me adiciona no WR meu nick é nilokao#luan7
 
-<!--
-**nilokao/nilokao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+eh isso ae
