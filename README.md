@@ -15,4 +15,4 @@ nilokao é um nick mt feio mas é meu<br>
 me adiciona no WR meu nick é nilokao#luan7<br>
 <br>
 <br>
-eh isso ae
+eh isso ae kk
