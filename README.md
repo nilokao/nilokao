@@ -1,4 +1,4 @@
-<h1>oi</h1>
+<h1>**oi**</h1>
 - 🔭 estou trabalhando em:<br>
 nada kkkkkkk alguém me da um emprego<br>
 - 🌱 estou estudando:<br>
@@ -9,10 +9,10 @@ sql tb<br>
 grêmio.<br>
 - 📫 como falar comigo:<br>
 não fale comigo<br>
-zoakkkkkkk, meu IG é @nilokao e meu TT é @nilokkkkao<br>
+zoakkkkkkk, meu [instagram](https://www.instagram.com/nilokao_/) e meu twitter, é só clicar<br>
 - ⚡ fato(s) gamer(s):<br>
 nilokao é um nick mt feio mas é meu<br>
-me adiciona no WR meu nick é nilokao#luan7<br>
+me adiciona no wr meu nick é nilokao#luan7<br>
 <br>
 <br>
-eh isso ae kk
+ficou *cringe* kk
