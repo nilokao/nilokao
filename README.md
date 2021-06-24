@@ -6,27 +6,31 @@ int main(){
 * 16 anos;
 * Santa Maria/Rio Grande do Sul;
 * **CTISM-UFSM**;
-* Info/2020
-- estou trabalhando em:
-  - nada kkkkkkk alguém me da um emprego
-- estou estudando:
-  - sql
-- estou precisando de ajuda em:
-sql tb
-- me pergunte sobre: 
-  - grêmio.
+* Informática/2020
 - Como me contactar:
   - Redes sociais:
-    - [Instagram](https://www.instagram.com/nilokao_/);
+    - ![Instagram](https://www.instagram.com/nilokao_/);
     - [Facebook](https://www.facebook.com/nicolas.monteiro.311);
     - [Twitter](https://twitter.com/nilokkkkao);
   - E-mail:
     - nicolasmlongo@gmail.com
-* fato(s) gamer(s):
-nilokao é um nick mt feio mas é meu
-me adiciona no wr meu nick é nilokao#luan7
-
-
+- Sobre as linguagens:
+  - Sei algo sobre:
+    - HTML;
+    - C;
+    - JavaScript;
+  - Estou aprendendo sobre:
+    - SQL;
+  - Pretendo aprender sobre:
+    - Python;
+    - PHP;
+- Algumas coisas que gosto:
+  - Jogar videogame;
+  - Futebol;
+  - Meu gato;
+  - Aprender sobre programação;
+- me pergunte sobre: 
+  - grêmio.
 ```c
 return 0;
 }
