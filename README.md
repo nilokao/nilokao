@@ -1,23 +1,33 @@
-```javascript
-Olá mundo!
-Meu nome é Nicolas Monteiro
+```c
+int main(){
+  printf("Olá mundo!");
+  printf("Meu nome é Nicolas Monteiro Longo.");
 ```
-* **CTISM/UFSM**
+* 16 anos;
+* Santa Maria/Rio Grande do Sul;
+* **CTISM-UFSM**;
 * Info/2020
 - estou trabalhando em:
-  - nada kkkkkkk alguém me da um emprego<br>
-- estou estudando:<br>
-  - sql<br>
-- estou precisando de ajuda em:<br>
-  -sql tb<br>
-- me pergunte sobre:<br> 
-  - grêmio.<br>
-- como falar comigo:<br>
-  - não fale comigo<br>
-zoakkkkkkk, meu [instagram](https://www.instagram.com/nilokao_/) e meu [twitter](https://twitter.com/nilokkkkao), é só clicar<br>
-* fato(s) gamer(s):<br>
-nilokao é um nick mt feio mas é meu<br>
-me adiciona no wr meu nick é nilokao#luan7<br>
-<br>
-<br>
-ficou cringe kk
+  - nada kkkkkkk alguém me da um emprego
+- estou estudando:
+  - sql
+- estou precisando de ajuda em:
+sql tb
+- me pergunte sobre: 
+  - grêmio.
+- Como me contactar:
+  - Redes sociais:
+    - [Instagram](https://www.instagram.com/nilokao_/);
+    - [Facebook](https://www.facebook.com/nicolas.monteiro.311);
+    - [Twitter](https://twitter.com/nilokkkkao);
+  - E-mail:
+    - nicolasmlongo@gmail.com
+* fato(s) gamer(s):
+nilokao é um nick mt feio mas é meu
+me adiciona no wr meu nick é nilokao#luan7
+
+
+```c
+return 0;
+}
+```
