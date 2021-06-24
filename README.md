@@ -9,7 +9,7 @@ int main(){
 * Informática/2020
 - Como me contactar:
   - Redes sociais:
-    - ![Instagram](https://www.instagram.com/nilokao_/);
+    - [Instagram](https://www.instagram.com/nilokao_/);
     - [Facebook](https://www.facebook.com/nicolas.monteiro.311);
     - [Twitter](https://twitter.com/nilokkkkao);
   - E-mail:
