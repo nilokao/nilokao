@@ -29,8 +29,6 @@ int main(){
   - Futebol;
   - Meu gato;
   - Aprender sobre programação;
-- me pergunte sobre: 
-  - grêmio.
 ```c
 return 0;
 }
