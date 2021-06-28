@@ -4,9 +4,10 @@ int main(){
   printf("Meu nome é Nicolas Monteiro Longo.");
 ```
 * 16 anos;
+* Brasil;
 * Santa Maria/Rio Grande do Sul;
 * **CTISM-UFSM**;
-* Informática/2020
+* Informática/2020;
 - Como me contactar:
   - Redes sociais:
     - [Instagram](https://www.instagram.com/nilokao_/);
@@ -25,10 +26,10 @@ int main(){
     - Python;
     - PHP;
 - Algumas coisas que gosto:
-  - Jogar videogame;
-  - Futebol;
-  - Meu gato;
-  - Aprender sobre programação;
+  - Jogar videogame🎮;
+  - Futebol⚽;
+  - Meu gato🐈;
+  - Aprender sobre programação🖥;
 ```c
 return 0;
 }
