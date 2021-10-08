@@ -1,7 +1,7 @@
-```c
-int main(){
-  printf("Olá mundo!");
-  printf("Meu nome é Nicolas Monteiro Longo.");
+```python
+def main():
+  print('Olá mundo!')
+  print('Meu nome é Nicolas Monteiro Longo.')
 ```
 * 16 anos;
 * Brasil;
@@ -22,15 +22,15 @@ int main(){
     - JavaScript;
   - Estou aprendendo sobre:
     - SQL;
+    - Python ❤️;
   - Pretendo aprender sobre:
-    - Python;
     - PHP;
 - Algumas coisas que gosto:
   - Jogar videogame🎮;
   - Futebol⚽;
-  - Meu gato🐈;
+  - Azuki🐈;
   - Aprender sobre programação🖥;
-```c
-return 0;
-}
+```python
+if __name__ == '__main__':
+  main()
 ```
