@@ -5,30 +5,30 @@ def main():
 ```
 * 16 anos;
 * Brasil;
-* Santa Maria/Rio Grande do Sul;
-* **CTISM-UFSM**;
-* Informática/2020;
+* Rio Grande do Sul;
+* Santa Maria;
+* CTISM-UFSM;
+* Informática para Internet/2020;
+* Suporte TI na Secretaria de Saúde de Santa Maria;
+
 - Como me contactar:
   - Redes sociais:
     - [Instagram](https://www.instagram.com/nilokao_/);
     - [Facebook](https://www.facebook.com/nicolas.monteiro.311);
-    - [Twitter](https://twitter.com/nilokkkkao);
   - E-mail:
     - nicolasmlongo@gmail.com
-- Sobre as linguagens:
+- Sobre linguagens de programação:
   - Sei algo sobre:
     - HTML;
     - C;
     - JavaScript;
-  - Estou aprendendo sobre:
-    - SQL;
-    - Python ❤️;
+    - Python;
   - Pretendo aprender sobre:
+    - Java;
     - PHP;
 - Algumas coisas que gosto:
   - Jogar videogame🎮;
   - Futebol⚽;
-  - Azuki🐈;
   - Aprender sobre programação🖥;
 ```python
 if __name__ == '__main__':
