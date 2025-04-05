@@ -40,4 +40,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Quote" style="width: 50%;">
 <br>
 </div>
+<br><br>
 <p style="text-align: right">não viva uma mentira confortável</p>
