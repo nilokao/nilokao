@@ -24,7 +24,6 @@
         <img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X">
       </a>
     </p>
-
     <h2 id="-tecnologias-e-afins-">💻 Tecnologias e afins:</h2>
     <p>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C">
@@ -49,10 +48,9 @@
 
   <div style="display: flex; flex-direction: column; gap: 0.5rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=nilokao&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilokao&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-
     <img src="https://github-contributor-stats.vercel.app/api?username=nilokao&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contribuições GitHub">
+
   </div>
   <div style="display: flex; flex-direction: column; gap: 1rem;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=nilokao&theme=aura&hide_border=false" alt="GitHub Streak">
