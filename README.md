@@ -1,11 +1,9 @@
 ## 💫 Sobre mim:
-📅 19 anos  
+📅 20 anos  
 👨‍🎓 Técnico em Informática para Internet - CTISM  
-🖥️ 2º semestre Sistemas de Informação - UFSM  
-🖥️ C, Python, Javascript  
-💼 Estágio na Secretaria Municipal de Saúde de Santa Maria  
-💼 Bolsa no Colégio Técnico Industrial de Santa Maria  
-🖥️ frontend is my passion  
+🖥️ 3º semestre Sistemas de Informação - UFSM  
+💼 Ex estagiário na Secretaria Municipal de Saúde de Santa Maria  
+💼 Ex bolsista no Colégio Técnico Industrial de Santa Maria (2x)
 🐱 fun fact: gato.  
 📭 nicolasmlongo@gmail.com  
 
